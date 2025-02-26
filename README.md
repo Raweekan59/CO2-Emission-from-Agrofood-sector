@@ -16,10 +16,108 @@ with environmental responsibility.
 # Global CO2 emissions
 
 ![image](https://github.com/user-attachments/assets/fa105c01-39d6-4ade-9f30-0fbffdd7bd26)</p>
-<p align="center"> Fig.1 Total CO2 Emissions by Area</p></p>
+<p align="center"> Fig.1 Total CO2 Emissions by Area</p><br>
 
-Figure 1 shows the total CO₂ emissions of each country from 1990 to 2020, represented using a color scale ranging from yellow to red. The map clearly highlights China 
-as the largest emitter, with a significantly red shade compared to other nations. China stands out as an outlier in terms of emissions.
+Figure 1. shows the total CO₂ emissions of each country from 1990 to 2020, represented using a color scale ranging from yellow to red. The map clearly highlights China 
+as the largest emitter, with a significantly red shade compared to other nations. China stands out as an outlier in terms of emissions.</p><br><br>
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d432de38-9913-47be-9287-f35972f8d596" alt="image">
+</p>
+<p align="center"> Fig.2 Total CO2 Emissions by area and decade</p><br>
+Figure 2. illustrates the total CO₂ emissions by decade to see how each country emission change. Emissions incease of countries can slightly be seen as China emission rise 
+significantly in every decade.This map can conclude that China is the largest emitter since 1991 till 2020. 
+</p>
+<br>
+<br>
+
+
+# CO2 emissions rate and Average temperature change
+<b>Does CO2 emissions rate influence average temperature change?</b>
+</p><br>
+<br>
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/d9193919-06d9-4046-871e-e6aaa3159614" width="400"></td>
+      <td><img src="https://github.com/user-attachments/assets/8e9c7b40-9b0a-4a85-87b7-4691c0beeec8" width="400"></td>
+    </tr>
+  </table>
+</div>
+<br>
+<p align="center"> Fig.3 Total CO2 emissions (exclude China) vs Average Teamperature change by area and decade</p><br>
+
+
+Figure 3. presents comparative maps illustrating the emissions rate and temperature change of each country over decades. To enhance clarity, China has been excluded from the emissions maps, as its consistently high emission levels would otherwise dominate the color scale, making it difficult to observe variations in other countries. When analyzing both maps, a clear trend emerges—China's average temperature has steadily increased each decade, aligning with its rising emissions. In contrast, other countries display more irregular patterns, with temperature changes and emissions fluctuating without a consistent trend.</p>
+<br>
+
+
+Excluding China, the leading CO₂ emitters are the USA, Brazil, India, and Indonesia, though their rankings have shifted over the decades. From 1991 to 2010, Brazil was the second-largest 
+emitter after China, but its emissions declined in the last decade. Meanwhile, emissions from the USA, India, and Indonesia have consistently risen over the last 30 years.</p>
+<br>
+
+
+In the first 20 years of the time series, top emitters that are open to water, like Brazil and Indonesia, show an increase in temperature. On the other hand, top emitters that share most of their borders with neighboring countries, such as China and the USA, experience temperature increases not only within their own borders but also in their neighboring countries, including Russia, Mongolia, Kazakhstan, Canada, and Greenland.</p>
+<br>
+<br>
+
+
+
+# Agrofood CO2 emissions compared to Global CO2 emissions
+"Agrofood: One of the Most Essential Sectors for Human Dependence"</p>
+<b>How has this sector contributed to CO2 emissions over the past 30 years?</b></p>
+<br>
+<br>
+
+  ![image](https://github.com/user-attachments/assets/7c5a6f8c-2374-49c6-9982-2923eda79159)
+<br>
+<p align="center"> Fig.4 Line graph of Agrofood vs Total CO2 emissions over time</p><br>
+
+
+The line graph in Figure 4 shows that at first, agrofood emissions made up a large share of total emissions, with some constant remaining. 
+By early 2010s, agrofood emissions nearly covered all emissions, with both rising slightly until 2020. Calculated values in the figure says that 
+in 30 years, CO2 emissions from Agrofood sector accounted 86.75% in average and range from 76.60% to 97.28%.</p>
+
+
+<br>
+<br>
+<br>
+<b>Top emitters of Agrofood</b></p>
+<br>
+<br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6f3f158d-a700-4764-9f31-2141fff38fc6" width="48%" />
+  <img src="https://github.com/user-attachments/assets/9601fc65-d193-4a1a-b525-f05cb4a5a958" width="48%" />
+</p>
+<br>
+<p align="center"> Fig.5 Agrofood vs Total CO2 emissions by area and decade (exclude China)</p><br>
+
+
+Figure 5 shows that the top emitters in the agrofood sector are the USA, Russia, India, and Indonesia, with Brazil reaching the top rank in the second decade. These countries also hold top ranks in overall emissions, as mentioned earlier.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  
 
 
