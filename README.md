@@ -85,7 +85,7 @@ in 30 years, CO2 emissions from Agrofood sector accounted 86.75% in average and 
 <br>
 <b>Relation of Agrofood and Overall CO2 emissions  </b></p>
 <br>
-Since agrofood emissions account for 70-90% of global emissions annually, it raises the question: <b>‘Is there a connection between the countries with the highest agrofood emissions and their overall emissions?’</b>
+Since agrofood emissions account for 70-90% of global emissions annually, it raises the question: <b>‘Is there a connection between agrofood and overall emissions of the highest agrofood emissions?’</b>
 <br>
 <br>
 <p align="center">
@@ -117,7 +117,55 @@ To answer the question, there is no clear connection, but the data provides valu
 <br>
 
 # Sources of Agrofood CO2 emissions
+The dataset includes 15 emission sources responsible in the Agrofood sector. </p>
+These sources are categorized into 5 main areas: </p>
 
+
+1. **Crop & Soil Management:**
+   - Crop Residues
+   - Rice Cultivation
+   - Drained Organic Soils (CO₂)
+
+2. **Livestock & Manure Management:**
+   - Manure Applied to Soils
+   - Manure Left on Pasture
+   - Manure Management
+
+3. **Agricultural Inputs & Manufacturing:**
+   - Fertilizers Manufacturing
+   - Pesticides Manufacturing
+   - IPPU (Industrial Processes and Product Use)
+
+4. **Food Processing & Distribution:**
+   - Food Processing
+   - Food Packaging
+   - Food Transport
+
+5. **Consumer & Waste Management:**
+   - Food Retail
+   - Food Household Consumption
+   - Agrifood Systems Waste Disposal
+
+
+Each category represents different stages and activities in the agrofood sector contributing to CO₂ emissions.</p>
+<br>
+<br>
+
+<b> Compare Agrofood CO2 emissions by categoty over time</b></p>
+<br>
+<br>
+![image](https://github.com/user-attachments/assets/35261816-4e85-48d3-ad49-52717137c694)
+<br>
+<p align="center"> Fig.6 Line graph of Agrofood CO2emissions by Category overtime with & without china </p><br>
+
+Figure 6 shows a comparison of agrofood emissions by category over time, highlighting China's influence on the overall emission trend. From the graph, China's influence on 'Agricultural inputs and Manufacturing' emissions became significant after the year 2000, as emissions dramatically increased and doubled by 2020. Around the mid-2000s, emissions from 'Consumer & Waste Management,' including China, began to increase slightly. Also, emissions from 'Food Processing & Distribution' rose to a constant level and remained stable until 2020. 
+</p>
+<br>
+In conclusion, the change in China’s emission trends around the mid-2000s, followed by a constant rise, indicates significant changes or developments in China’s agrofood industry.</p>
+<br>
+<br>
+<b> Outstanding sources of Agrofood CO2 emissions</b></p>
+<br>
 
 
 
