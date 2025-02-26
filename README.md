@@ -168,11 +168,10 @@ In conclusion, the change in China’s emission trends around the mid-2000s, fol
 
 # Outstanding sources of Agrofood CO2 emissions
 
-Based on the emissions data across categories over time, the most outstanding sources of emissions are 'Agricultural Inputs and Manufacturing' and 'Consumer & Waste Management'. However,<b> 'What are the trends for each specific source within these categories?
-</b>  </p>
+<p>Based on the emissions data across categories over time, the most outstanding sources of emissions are 'Agricultural Inputs and Manufacturing' and 'Consumer & Waste Management'. However, <b>'What are the trends for each specific source within these categories?</b>  </p>
 <br>
 
-- Agricultural Inputs and Manufacturing</p>
+***Agricultural Inputs and Manufacturing*** </p>
 <br>
 
 <p align="center">
@@ -190,7 +189,7 @@ Figure 7. compares the trend of each source in Agricultural Inputs and Manufactu
 
 
 
-- Consumer & Waste Management</p>
+***Consumer & Waste Management***</p>
 <br>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/dbe1c5c8-ea18-4238-9e3f-f2cb62a74bdb" width="48%" />
