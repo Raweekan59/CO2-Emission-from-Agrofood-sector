@@ -156,15 +156,33 @@ Each category represents different stages and activities in the agrofood sector 
 <br>
 ![image](https://github.com/user-attachments/assets/35261816-4e85-48d3-ad49-52717137c694)
 <br>
-<p align="center"> Fig.6 Line graph of Agrofood CO2emissions by Category overtime with & without china </p><br>
+<p align="center"> Fig.6 Line graph of Agrofood CO2emissions by Category overtime with & without China </p><br>
 
-Figure 6 shows a comparison of agrofood emissions by category over time, highlighting China's influence on the overall emission trend. From the graph, China's influence on 'Agricultural inputs and Manufacturing' emissions became significant after the year 2000, as emissions dramatically increased and doubled by 2020. Around the mid-2000s, emissions from 'Consumer & Waste Management,' including China, began to increase slightly. Also, emissions from 'Food Processing & Distribution' rose to a constant level and remained stable until 2020. 
+Figure 6 shows a comparison of agrofood emissions by category over time, highlighting China's influence on the overall emission trend. From the graph, China's influence on 'Agricultural inputs and Manufacturing' emissions became significant after the year 2000, as emissions dramatically increased and doubled by 2020. Around the mid-2000s, emissions from 'Consumer & Waste Management', including China, began to increase slightly. Also, emissions from 'Food Processing & Distribution' rose to a constant level and remained stable until 2020. 
 </p>
 <br>
-In conclusion, the change in China’s emission trends around the mid-2000s, followed by a constant rise, indicates significant changes or developments in China’s agrofood industry.</p>
+In conclusion, the change in China’s emission trends around the mid-2000s, followed by a constant rise, indicates significant changes or developments in China’s agrofood industry. However, from both line graphs provide the same outstanding categories of sources of agrofood emissions which are <b>'Agricultural inputs and Manufacturing' and 'Consumer & Waste Management'</p>
 <br>
 <br>
-<b> Outstanding sources of Agrofood CO2 emissions</b></p>
+
+
+# Outstanding sources of Agrofood CO2 emissions
+
+Based on the emissions data across categories over time, the most outstanding sources of emissions are 'Agricultural Inputs and Manufacturing' and 'Consumer & Waste Management'. However,<b> 'What are the trends for each specific source within these categories?
+</b>  </p>
+<br>
+
+- Agricultural Inputs and Manufacturing</p>
+<br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a8aced15-21f4-449c-9239-b7f5a95b09a0" width="48%" />
+  <img src="https://github.com/user-attachments/assets/f695cc4c-f041-4737-88cc-c09f016837c2" width="48%" />
+</p>
+<br>
+<p align="center"> Fig.7 Line graph of Agricultural Inputs and Manufacturing overtime with & without China </p><br>
+
+Figure 7. compares the trend of each source in Agricultural Inputs and Manufacturing, both with and without China, resulting in a similar pattern. The source that mainly drives emissions in this category is IPPU(Industrial Processes and Product Use). Its emissions start at a higher level and rise consistently, while the other sources begin at a quarter of that figure and remain steady.</p>
 <br>
 
 
@@ -172,6 +190,12 @@ In conclusion, the change in China’s emission trends around the mid-2000s, fol
 
 
 
+- Consumer & Waste Management</p>
+<br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dbe1c5c8-ea18-4238-9e3f-f2cb62a74bdb" width="48%" />
+  <img src="https://github.com/user-attachments/assets/d6f19f00-2df8-47eb-ae2d-98e7f87ab323" width="48%" />
+</p>
 
 
 
