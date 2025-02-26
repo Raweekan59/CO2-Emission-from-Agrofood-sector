@@ -229,7 +229,16 @@ Fig. 10.1 Crop and soil management, Fig. 10.2 Consumer and waste management, Fig
 For agrofood emission in Thailand, Figure 10.1 shows that highest emission is from Rice Cultivation which number fluctuate over 4 thousand kilitonnes since for 30 years.</p>
 
 However, Figure 10.2 illustrates remarkable trend of emissions from Food Retail which increase almost vertically around mid-2010s , surpass through other emission sources and keep rising dramatically until year 2020. This may imply Thai people behaviors on food shopping and consumption. </p>
-Last, in Figure 10.3, Thailand trend follows global trend where IPPU(Industrial Processes and Product Use) emits the most in the category.
+Last, in Figure 10.3, Thailand trend follows global trend where IPPU(Industrial Processes and Product Use) emits the most in the category.</p>
+
+
+<br>
+<br>
+
+# Action plan
+1. International scale: Raise emissons regulations of AgroFood sector among neighbour countries and set goal for net-zero to cut-off improper emissions from manufacturers </p>
+2. Country scale: Support food retail management to avoid oversupply and reduce food wasted from expiration</p>
+3. Individual scale: Practice comsumption behavior to avoid over-consumption and reduce food waste</p>
 
 
 
