@@ -239,6 +239,7 @@ Last, in Figure 10.3, Thailand trend follows global trend where IPPU(Industrial 
 1. International scale: Raise emissons regulations of AgroFood sector among neighbour countries and set goal for net-zero to cut-off improper emissions from manufacturers </p>
 2. Country scale: Support food retail management to avoid oversupply and reduce food wasted from expiration</p>
 3. Individual scale: Practice comsumption behavior to avoid over-consumption and reduce food waste</p>
+4. Global scale: Support nature ecosystems conservation to increase carbon sink ability
 
 
 
