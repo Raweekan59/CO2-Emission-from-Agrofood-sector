@@ -83,7 +83,9 @@ in 30 years, CO2 emissions from Agrofood sector accounted 86.75% in average and 
 <br>
 <br>
 <br>
-<b>Top emitters of Agrofood</b></p>
+<b>Relation of Agrofood and Overall CO2 emissions  </b></p>
+<br>
+Since agrofood emissions account for 70-90% of global emissions annually, it raises the question: <b>‘Is there a connection between the countries with the highest agrofood emissions and their overall emissions?’</b>
 <br>
 <br>
 <p align="center">
@@ -94,7 +96,29 @@ in 30 years, CO2 emissions from Agrofood sector accounted 86.75% in average and 
 <p align="center"> Fig.5 Agrofood vs Total CO2 emissions by area and decade (exclude China)</p><br>
 
 
-Figure 5 shows that the top emitters in the agrofood sector are the USA, Russia, India, and Indonesia, with Brazil reaching the top rank in the second decade. These countries also hold top ranks in overall emissions, as mentioned earlier.
+Figure 5 shows that the top emitters in the agrofood sector are the USA, Russia, India, and Indonesia, with Brazil reaching the top rank in the second decade. These countries also hold top ranks in overall emissions, as mentioned earlier.</p>
+<br>
+
+In India, the total emissions of the country largely come from agrofood, as indicated by the similar color patterns for both agrofood emissions and total emissions in all three decades.</p>
+<br>
+
+In Indonesia, the country's total emissions may partly stem from agrofood, as the color for total emissions has been a shade darker than that for agrofood in the last two decades.</p>
+<br>
+
+In Brazil, it is clear that the country's total emissions do not primarily come from agrofood. The decline in total emissions over the past decades suggests that the main source of emissions may have been reduced or halted, possibly due to the cessation of certain activities.</p>
+<br>
+
+Although the USA is the largest emitter in the agrofood sector, its total emissions are lower compared to countries like Brazil. This suggests that natural ecosystems in the USA may act as carbon sinks, reducing overall emissions. Similarly, Russia's total emissions are consistently lighter in shade compared to agrofood emissions over each decade, indicating that Russia might also function as a carbon sink. Both of these countries have vast land areas with large forests, which could help absorb carbon, leading to negative values for their emissions.</p>
+<br>
+
+
+To answer the question, there is no clear connection, but the data provides valuable insights that can lead to discussions on other sources of emissions in these countries.</p>
+<br>
+<br>
+
+# Sources of Agrofood CO2 emissions
+
+
 
 
 
