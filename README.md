@@ -239,9 +239,9 @@ Last, in Figure 10.3, Thailand trend follows global trend where IPPU(Industrial 
 1.	The amount of CO2 emissions doesn’t directly affect the temperature change of the responsible area. It appears that the increase in temperature in neighbouring countries is sometimes more impacted than the countries from which the emissions originate.
 2.	Emissions from agrofood account for 70-90% of total emissions.
 3.	There is no clear connection between agrofood and overall emissions by country.
-4.	IPPU is the largest source of emissions in agrofood sector.
+4.	IPPU (Industrial Processes and Product Use) is the largest source of emissions in agrofood sector.
 5.	China has influenced global trend of agrofood emissions on Food Household Consumption.
-6.	Thailand largest agrifood emissions source is Rice Cultivation which emits more than 4 thousand kilotonnes annually.
+6.	Thailand largest agrofood emissions source is Rice Cultivation which emits more than 4 thousand kilotonnes annually.
 7.	Emissions from Food retail in Thailand increase dramatically in contrast to global trend in same category. </p> 
 
 
