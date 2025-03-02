@@ -15,7 +15,8 @@ with environmental responsibility.
 
 # Global CO2 emissions
 
-![image](https://github.com/user-attachments/assets/fa105c01-39d6-4ade-9f30-0fbffdd7bd26)</p>
+![Total emission by Area (1990-2020)](https://github.com/user-attachments/assets/5996bcd1-bf63-4b29-96b1-4b41269c6c74)
+</p>
 <p align="center"> Fig.1 Total CO2 Emissions by Area</p><br>
 
 Figure 1. shows the total CO₂ emissions of each country from 1990 to 2020, represented using a color scale ranging from yellow to red. The map clearly highlights China 
@@ -23,7 +24,7 @@ as the largest emitter, with a significantly red shade compared to other nations
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d432de38-9913-47be-9287-f35972f8d596" alt="image">
+  <img src="https://github.com/user-attachments/assets/cdabe96d-9112-48aa-8bc0-e1fcb996fab5" alt="image">
 </p>
 <p align="center"> Fig.2 Total CO2 Emissions by area and decade</p><br>
 Figure 2. illustrates the total CO₂ emissions by decade to see how each country emission change. Emissions incease of countries can slightly be seen as China emission rise 
@@ -40,8 +41,8 @@ significantly in every decade.This map can conclude that China is the largest em
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/d9193919-06d9-4046-871e-e6aaa3159614" width="400"></td>
-      <td><img src="https://github.com/user-attachments/assets/8e9c7b40-9b0a-4a85-87b7-4691c0beeec8" width="400"></td>
+      <td><img src="https://github.com/user-attachments/assets/0092c05f-f3d6-47d4-9251-37b41dac8818" width="400"></td>
+      <td><img src="https://github.com/user-attachments/assets/fdec5228-b623-4d27-ae63-b624dd1b8d7a" width="400"></td>
     </tr>
   </table>
 </div>
