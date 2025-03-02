@@ -1,10 +1,19 @@
+
+
+
 # CO2-Emission-from-Agrofood-sector
 <b>About dataset</b></p>
 This dataset compiles CO₂ emissions data sourced from FAO (Food and Agriculture Organization) and IPCC (Intergovernmental Panel on Climate Change), covering the years from 1990 to 2020.
 Amount of CO2 emissions is recored in kilotonnes(kt).</p>
 Data source:</p>
 - Main dataset: https://www.kaggle.com/datasets/alessandrolobello/agri-food-co2-emission-dataset-forecasting-ml
-- Additional for region label: https://www.kaggle.com/datasets/andradaolteanu/country-mapping-iso-continent-region
+- Additional for region label: https://www.kaggle.com/datasets/andradaolteanu/country-mapping-iso-continent-region</p>
+<br>
+
+This project is conducted as part of the Data Analytics and Data Science Tools and Programming (DADS5001) course, Graduate School of Applied Statistics (GSAS), the National Institute of Development Administration (NIDA).</p>
+Author: Raweekan Thongpan</p>
+
+<br>
 
 # Introduction
 Agrofood sector is large and essential, as food is a fundamental necessity for human survival and well-being. The industry include all activities activities within the 
