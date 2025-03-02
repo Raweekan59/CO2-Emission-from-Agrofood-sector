@@ -43,8 +43,8 @@ significantly in every decade.This map can conclude that China is the largest em
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/0092c05f-f3d6-47d4-9251-37b41dac8818" width="400"></td>
-      <td><img src="https://github.com/user-attachments/assets/fdec5228-b623-4d27-ae63-b624dd1b8d7a" width="400"></td>
+      <td><img src="https://github.com/user-attachments/assets/0092c05f-f3d6-47d4-9251-37b41dac8818" width="600"></td>
+      <td><img src="https://github.com/user-attachments/assets/fdec5228-b623-4d27-ae63-b624dd1b8d7a" width="600"></td>
     </tr>
   </table>
 </div>
@@ -98,10 +98,17 @@ in 30 years, CO2 emissions from Agrofood sector accounted 86.75% in average and 
 Since agrofood emissions account for 70-90% of global emissions annually, it raises the question: <b>‘Is there a connection between agrofood and overall emissions of the highest agrofood emissions?’</b>
 <br>
 <br>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/002a1264-5bdd-40aa-9006-4e8d915028ea" width="48%" />
-  <img src="https://github.com/user-attachments/assets/4ab7a90a-f00f-47a8-9c92-7e6e90e90985" width="48%" />
-</p>
+
+
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/002a1264-5bdd-40aa-9006-4e8d915028ea" width="600"></td>
+      <td><img src="https://github.com/user-attachments/assets/4ab7a90a-f00f-47a8-9c92-7e6e90e90985" width="600"></td>
+    </tr>
+  </table>
+</div>
 <br>
 <p align="center"> <b>Fig.5 Agrofood vs Total CO2 emissions by area and decade (exclude China)</b></p><br>
 
