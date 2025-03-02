@@ -68,7 +68,16 @@ In the first 20 years of the time series, top emitters that are open to water, l
 <br>
 <br>
 
-  ![image](https://github.com/user-attachments/assets/7c5a6f8c-2374-49c6-9982-2923eda79159)
+
+![image](https://github.com/user-attachments/assets/119301ea-5dc6-433f-a4eb-3804d76292ed)
+
+
+
+
+
+
+</p>
+
 <br>
 <p align="center"> Fig.4 Line graph of Agrofood vs Total CO2 emissions over time</p><br>
 
@@ -87,8 +96,8 @@ Since agrofood emissions account for 70-90% of global emissions annually, it rai
 <br>
 <br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6f3f158d-a700-4764-9f31-2141fff38fc6" width="48%" />
-  <img src="https://github.com/user-attachments/assets/9601fc65-d193-4a1a-b525-f05cb4a5a958" width="48%" />
+  <img src="https://github.com/user-attachments/assets/002a1264-5bdd-40aa-9006-4e8d915028ea" width="48%" />
+  <img src="https://github.com/user-attachments/assets/4ab7a90a-f00f-47a8-9c92-7e6e90e90985" width="48%" />
 </p>
 <br>
 <p align="center"> Fig.5 Agrofood vs Total CO2 emissions by area and decade (exclude China)</p><br>
@@ -152,9 +161,10 @@ Each category represents different stages and activities in the agrofood sector 
 <b> Compare Agrofood CO2 emissions by categoty over time</b></p>
 <br>
 <br>
-![image](https://github.com/user-attachments/assets/35261816-4e85-48d3-ad49-52717137c694)
+![image](https://github.com/user-attachments/assets/ecdb8121-1b8e-4016-a001-4acd55097560)
+
 <br>
-<p align="center"> Fig.6 Line graph of Agrofood CO2emissions by Category overtime with & without China </p><br>
+<p align="center"> Fig.6 Line graph of Agrofood CO2 emissions by Category overtime with & without China </p><br>
 
 Figure 6 shows a comparison of agrofood emissions by category over time, highlighting China's influence on the overall emission trend. From the graph, China's influence on 'Agricultural inputs and Manufacturing' emissions became significant after the year 2000, as emissions dramatically increased and doubled by 2020. Around the mid-2000s, emissions from 'Consumer & Waste Management', including China, began to increase slightly. Also, emissions from 'Food Processing & Distribution' rose to a constant level and remained stable until 2020. 
 </p>
@@ -173,8 +183,8 @@ In conclusion, the change in China’s emission trends around the mid-2000s, fol
 <br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a8aced15-21f4-449c-9239-b7f5a95b09a0" width="48%" />
-  <img src="https://github.com/user-attachments/assets/f695cc4c-f041-4737-88cc-c09f016837c2" width="48%" />
+  <img src="https://github.com/user-attachments/assets/8af15ecb-4b0a-4285-be12-e437abbfe69c" width="48%" />
+  <img src="https://github.com/user-attachments/assets/bd6e5bb7-1c6e-4479-aba6-e8267b71ddbf" width="48%" />
 </p>
 <br>
 <p align="center"> Fig.7 Line graph of Agricultural Inputs and Manufacturing overtime with & without China </p><br>
@@ -192,8 +202,8 @@ This can be summarized that the total of hidden emissions from activities is the
 ***Consumer & Waste Management***</p>
 <br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/dbe1c5c8-ea18-4238-9e3f-f2cb62a74bdb" width="48%" />
-  <img src="https://github.com/user-attachments/assets/d6f19f00-2df8-47eb-ae2d-98e7f87ab323" width="48%" />
+  <img src="https://github.com/user-attachments/assets/950a0e1b-5784-4521-9185-16c82ef39ee1" width="48%" />
+  <img src="https://github.com/user-attachments/assets/0fcba5a7-0978-4c3e-8561-ed53943bd171" width="48%" />
 </p>
 <br>
 <p align="center"> Fig.8 Line graph of Consumer and Waste Management overtime with & without China </p><br>
@@ -208,7 +218,9 @@ To be concluded, China has a significant influence on global emissions from Food
 # How about Thailand?
 
 <br>
-<img src="https://github.com/user-attachments/assets/3822932c-00e7-46dc-8d06-793412fa1ba5" /></p>
+
+
+<img src="https://github.com/user-attachments/assets/bce4ef44-1285-4555-b0e6-4c0511c47916" /></p>
 <p align="center"> Fig.9 Agrofood CO2 emissions by Category for top 10 areas in Asia (exclude China) </p><br>
 
 Accorrding to Figure 9, Thailand is at 4th rank of agrofood emitter in Asia (5th when include China). Interestingly, top emission category does not follow global trend. Thailand's highest agrofood emissions is from Crop and Soil Management, then followed by Consumer & Waste Management and Agricultural Inputs and Manufacturing respectively. 
@@ -217,13 +229,14 @@ Accorrding to Figure 9, Thailand is at 4th rank of agrofood emitter in Asia (5th
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/85fc22d2-3ed0-44b4-9b25-2e7339361fae" width="100%" /><br>
-  <img src="https://github.com/user-attachments/assets/e02a9047-e305-4608-9688-c48f98ec870d" width="100%" /><br>
-  <img src="https://github.com/user-attachments/assets/519e41d9-9c04-4a3f-9d53-b1ca4b415368" width="100%" />
+  <img src="https://github.com/user-attachments/assets/85354516-d6eb-4376-8386-ca14fc0c20af" width="100%" /><br>
+  <img src="https://github.com/user-attachments/assets/a7807c22-bb8c-4467-aac4-ae051650ed28" width="100%" /><br>
+  <img src="https://github.com/user-attachments/assets/a2247ca5-524e-4f64-8150-18da578332bf" width="100%"
+
 </p>
 <p align="center"> Fig.10 Top 3 Agrofood CO2 emissions Category in Thailand </p>
 Fig. 10.1 Crop and soil management, Fig. 10.2 Consumer and waste management, Fig. 10.3 Agricultural inputs and manufacturing
-
+</p>
 <br>
 
 For agrofood emission in Thailand, Figure 10.1 shows that highest emission is from Rice Cultivation which number fluctuate over 4 thousand kilitonnes over 30 years.</p>
