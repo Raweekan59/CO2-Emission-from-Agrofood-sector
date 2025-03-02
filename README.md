@@ -217,9 +217,9 @@ Accorrding to Figure 9, Thailand is at 4th rank of agrofood emitter in Asia (5th
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/85fc22d2-3ed0-44b4-9b25-2e7339361fae" width="48%" /><br>
-  <img src="https://github.com/user-attachments/assets/e02a9047-e305-4608-9688-c48f98ec870d" width="48%" /><br>
-  <img src="https://github.com/user-attachments/assets/519e41d9-9c04-4a3f-9d53-b1ca4b415368" width="48%" />
+  <img src="https://github.com/user-attachments/assets/85fc22d2-3ed0-44b4-9b25-2e7339361fae" width="100%" /><br>
+  <img src="https://github.com/user-attachments/assets/e02a9047-e305-4608-9688-c48f98ec870d" width="100%" /><br>
+  <img src="https://github.com/user-attachments/assets/519e41d9-9c04-4a3f-9d53-b1ca4b415368" width="100%" />
 </p>
 <p align="center"> Fig.10 Top 3 Agrofood CO2 emissions Category in Thailand </p>
 Fig. 10.1 Crop and soil management, Fig. 10.2 Consumer and waste management, Fig. 10.3 Agricultural inputs and manufacturing
