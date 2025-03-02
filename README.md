@@ -17,16 +17,18 @@ with environmental responsibility.
 
 ![Total emission by Area (1990-2020)](https://github.com/user-attachments/assets/5996bcd1-bf63-4b29-96b1-4b41269c6c74)
 </p>
-<p align="center"> Fig.1 Total CO2 Emissions by Area</p><br>
+<p align="center"> <b>Fig.1 Total CO2 Emissions by Area</b></p><br>
 
 Figure 1. shows the total CO₂ emissions of each country from 1990 to 2020, represented using a color scale ranging from yellow to red. The map clearly highlights China 
 as the largest emitter, with a significantly red shade compared to other nations. China stands out as an outlier in terms of emissions.</p>
+<br>
+<br>
 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/cdabe96d-9112-48aa-8bc0-e1fcb996fab5" alt="image">
 </p>
-<p align="center"> Fig.2 Total CO2 Emissions by area and decade</p><br>
+<p align="center"> <b>Fig.2 Total CO2 Emissions by area and decade</b></p><br>
 Figure 2. illustrates the total CO₂ emissions by decade to see how each country emission change. Emissions incease of countries can slightly be seen as China emission rise 
 significantly in every decade.This map can conclude that China is the largest emitter since 1991 till 2020. 
 </p>
@@ -47,7 +49,7 @@ significantly in every decade.This map can conclude that China is the largest em
   </table>
 </div>
 <br>
-<p align="center"> Fig.3 Total CO2 emissions (exclude China) vs Average Teamperature change by area and decade</p><br>
+<p align="center"> <b>Fig.3 Total CO2 emissions (exclude China) vs Average Teamperature change by area and decade</b></p><br>
 
 
 Figure 3. presents comparative maps illustrating the emissions rate and temperature change of each country over decades. To enhance clarity, China has been excluded from the emissions maps, as its consistently high emission levels would otherwise dominate the color scale, making it difficult to observe variations in other countries. When analyzing both maps, a clear trend emerges—China's average temperature has steadily increased each decade, aligning with its rising emissions. In contrast, other countries display more irregular patterns, with temperature changes and emissions fluctuating without a consistent trend.</p>
@@ -80,7 +82,7 @@ In the first 20 years of the time series, top emitters that are open to water, l
 </p>
 
 <br>
-<p align="center"> Fig.4 Line graph of Agrofood vs Total CO2 emissions over time</p><br>
+<p align="center"><b> Fig.4 Line graph (overlap area) of Agrofood vs Total CO2 emissions over time </b></p><br>
 
 
 The line graph in Figure 4 shows that at first, agrofood emissions made up a large share of total emissions, with some constant remaining. 
@@ -101,7 +103,7 @@ Since agrofood emissions account for 70-90% of global emissions annually, it rai
   <img src="https://github.com/user-attachments/assets/4ab7a90a-f00f-47a8-9c92-7e6e90e90985" width="48%" />
 </p>
 <br>
-<p align="center"> Fig.5 Agrofood vs Total CO2 emissions by area and decade (exclude China)</p><br>
+<p align="center"> <b>Fig.5 Agrofood vs Total CO2 emissions by area and decade (exclude China)</b></p><br>
 
 
 Figure 5 shows that the top emitters in the agrofood sector are the USA, Russia, India, and Indonesia, with Brazil reaching the top rank in the second decade. These countries also hold top ranks in overall emissions, as mentioned earlier.</p>
@@ -165,7 +167,7 @@ Each category represents different stages and activities in the agrofood sector 
 ![image](https://github.com/user-attachments/assets/ecdb8121-1b8e-4016-a001-4acd55097560)
 
 <br>
-<p align="center"> Fig.6 Line graph of Agrofood CO2 emissions by Category overtime with & without China </p><br>
+<p align="center"> <b>Fig.6 Line graph of Agrofood CO2 emissions by Category overtime with & without China </b></p><br>
 
 Figure 6 shows a comparison of agrofood emissions by category over time, highlighting China's influence on the overall emission trend. From the graph, China's influence on 'Agricultural inputs and Manufacturing' emissions became significant after the year 2000, as emissions dramatically increased and doubled by 2020. Around the mid-2000s, emissions from 'Consumer & Waste Management', including China, began to increase slightly. Also, emissions from 'Food Processing & Distribution' rose to a constant level and remained stable until 2020. 
 </p>
@@ -188,7 +190,7 @@ In conclusion, the change in China’s emission trends around the mid-2000s, fol
   <img src="https://github.com/user-attachments/assets/bd6e5bb7-1c6e-4479-aba6-e8267b71ddbf" width="48%" />
 </p>
 <br>
-<p align="center"> Fig.7 Line graph of Agricultural Inputs and Manufacturing overtime with & without China </p><br>
+<p align="center"> <b> Fig.7 Line graph of Agricultural Inputs and Manufacturing overtime with & without China </b> </p><br>
 
 Figure 7. compares the trend of each source in Agricultural Inputs and Manufacturing, both with and without China, resulting in a similar pattern. The source that mainly drives emissions in this category is IPPU(Industrial Processes and Product Use). Its emissions start at a higher level and rise consistently, while the other sources begin at a quarter of that figure and remain steady. </p>
 "IPPU(Industrial Processes and Product Use) is a sector that covers greenhouse gas emissions resulting from various industrial activities which are not directly the result of energy consumed during the process." (https://snapshotclimate.com.au/faq/what-is-included-in-ippu/)</p>
@@ -207,7 +209,7 @@ This can be summarized that the total of hidden emissions from activities is the
   <img src="https://github.com/user-attachments/assets/0fcba5a7-0978-4c3e-8561-ed53943bd171" width="48%" />
 </p>
 <br>
-<p align="center"> Fig.8 Line graph of Consumer and Waste Management overtime with & without China </p><br>
+<p align="center"><b> Fig.8 Line graph of Consumer and Waste Management overtime with & without China </b> </p><br>
 
 In Figure 8, there is a noticeable difference between the trends of sources in Consumer and Waste Management when comparing the global graph and the graph excluding China. In the global trend, emissions from Food Household Consumption surpass those of Agrifood Systems Waste Disposal after 2015. However, in the graph excluding China, Food Household Consumption remains below Agrifood Systems Waste Disposal, with a consistent gap between them. </p>
 To be concluded, China has a significant influence on global emissions from Food Household Consumption.
@@ -222,7 +224,7 @@ To be concluded, China has a significant influence on global emissions from Food
 
 
 <img src="https://github.com/user-attachments/assets/bce4ef44-1285-4555-b0e6-4c0511c47916" /></p>
-<p align="center"> Fig.9 Agrofood CO2 emissions by Category for top 10 areas in Asia (exclude China) </p><br>
+<p align="center"> <b> Fig.9 Agrofood CO2 emissions by Category for top 10 areas in Asia (exclude China) </b> </p><br>
 
 Accorrding to Figure 9, Thailand is at 4th rank of agrofood emitter in Asia (5th when include China). Interestingly, top emission category does not follow global trend. Thailand's highest agrofood emissions is from Crop and Soil Management, then followed by Consumer & Waste Management and Agricultural Inputs and Manufacturing respectively. 
 </p>
@@ -235,7 +237,7 @@ Accorrding to Figure 9, Thailand is at 4th rank of agrofood emitter in Asia (5th
   <img src="https://github.com/user-attachments/assets/a2247ca5-524e-4f64-8150-18da578332bf" width="100%"
 
 </p>
-<p align="center"> Fig.10 Top 3 Agrofood CO2 emissions Category in Thailand </p>
+<p align="center"> <b>Fig.10 Top 3 Agrofood CO2 emissions Category in Thailand </b></p>
 Fig. 10.1 Crop and soil management, Fig. 10.2 Consumer and waste management, Fig. 10.3 Agricultural inputs and manufacturing
 </p>
 <br>
